@@ -1,0 +1,37 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "azurlane": "^1.6.0",
+    "@vitalets/google-translate-api": "^3.0.0",
+    "discord.js": "^11.5.1",
+    "ascii-table": "^0.0.9",
+    "ms": "^2.1.2",
+    "jimp": "^0.9.3",
+    "nekos.life": "^2.0.4",
+    "jimpfont": "^0.0.6",
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.5.1"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
