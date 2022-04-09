@@ -18,7 +18,7 @@
     "jimp": "^0.9.3",
     "nekos.life": "^2.0.4",
     "jimpfont": "^0.0.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "request": "^2.88.0",
     "express": "^4.17.1"
   },
